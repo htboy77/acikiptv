@@ -1,0 +1,75 @@
+#EXTM3U $BorpasFileFormat="1"
+#EXTINF:-1 $ExtFilter="ULUSAL" tvg-logo="http://3.bp.blogspot.com/-saNhasSsg3c/Xk155ldHJnI/AAAAAAAAYFk/SdTrfkNcOxwLQsG3GKEiKrQom9AdabSNQCLcBGAsYHQ/s1600/trt1.jpg",TRT1
+https://tv.kuzeytv.com/hls/trt1.m3u8
+#EXTINF:-1 $ExtFilter="ULUSAL" tvg-logo="http://1.bp.blogspot.com/-IO3JWqWeWKs/Xk14fjxOjfI/AAAAAAAAYEM/BJAkaa1cAwMW_aCBV-cs8UDGRhufCZaSgCLcBGAsYHQ/s1600/kanald.jpg",KANAL D
+https://tv.kuzeytv.com/hls/kanald.m3u8
+#EXTINF:-1 $ExtFilter="ULUSAL" tvg-logo="http://4.bp.blogspot.com/-hQx6pQycT50/Xk15lvb9I7I/AAAAAAAAYFM/duGh4WrAxDEdZBjdlyNAcCEd8LSHPoqPgCLcBGAsYHQ/s1600/star.jpg",STAR TV
+https://tv.kuzeytv.com/hls/star.m3u8
+#EXTINF:-1 $ExtFilter="ULUSAL" tvg-logo="http://2.bp.blogspot.com/-EwZbDF8eH5I/Xk15PlM24eI/AAAAAAAAYE4/szzDkqCqHCAAAVsae9gff9zhw3rspBxMACLcBGAsYHQ/s1600/show.jpg",SHOW TV
+https://tv.kuzeytv.com/hls/show.m3u8
+#EXTINF:-1 $ExtFilter="ULUSAL" tvg-logo="http://1.bp.blogspot.com/-3PIy1bvKgqo/Xk13jY9fNnI/AAAAAAAAYDg/AE688149yyQW5l29Wx4v6CybBHpZk6-vwCLcBGAsYHQ/s1600/fox.jpg",FOX TV
+https://tv.kuzeytv.com/hls/fox.m3u8
+#EXTINF:-1 $ExtFilter="ULUSAL" tvg-logo="http://4.bp.blogspot.com/-8IFXlFBoUPE/Xk14RtUjVtI/AAAAAAAAYEE/6trsdmMIibAkxZkslLedOeCAbsWw8z94QCLcBGAsYHQ/s1600/kanal7.jpg",KANAL 7
+https://tv.kuzeytv.com/hls/kanal7.m3u8
+#EXTINF:-1 $ExtFilter="ULUSAL" tvg-logo="http://1.bp.blogspot.com/-s-iJMGwh60A/Xk17S3UJZlI/AAAAAAAAYGw/HNqwhjty1AgSWsFWnLtmmnOlPvAZj1C7ACLcBGAsYHQ/s1600/tv8.jpg",TV8
+https://tv.kuzeytv.com/hls/tv8.m3u8
+#EXTINF:-1 $ExtFilter="ULUSAL" tvg-logo="http://1.bp.blogspot.com/-dkQ8Bj5p8TI/Xk17cYiKs8I/AAAAAAAAYG0/GqoXNkhopBY7zG_8sekMaBcQrcI7-loAgCLcBGAsYHQ/s1600/tv85.jpg",TV8,5
+https://tv.kuzeytv.com/hls/tv85.m3u8
+#EXTINF:-1 $ExtFilter="ULUSAL" tvg-logo="http://4.bp.blogspot.com/-V3yzVw-1ylw/Xk17K1hNGoI/AAAAAAAAYGo/bS99KITAbnYsmqnAuvMnDxoiim4yP9pZQCLcBGAsYHQ/s1600/tv2.jpg",TEVE2
+https://tv.kuzeytv.com/hls/teve2.m3u8
+#EXTINF:-1 $ExtFilter="ULUSAL" tvg-logo="http://2.bp.blogspot.com/-jFAEW30HjZ4/Xk111IKMpmI/AAAAAAAAYCM/3pxcU-jexSUqTx9xzBDvz0v9BUoO3NmiACLcBGAsYHQ/s1600/a2.jpg",A2
+https://tv.kuzeytv.com/hls/a2.m3u8
+#EXTINF:-1 $ExtFilter="ULUSAL" tvg-logo="http://2.bp.blogspot.com/-WIZj8EQ1Lkk/Xk12LoHPK-I/AAAAAAAAYCg/lPiAj54bJqcH7WJRWbKKgCurctUjWKt9gCLcBGAsYHQ/s1600/beyaz.jpg",BEYAZ TV
+https://tv.kuzeytv.com/hls/beyaztv.m3u8
+#EXTINF:-1 $ExtFilter="ULUSAL" tvg-logo="http://3.bp.blogspot.com/-N0Ir1D0vMwk/XniqX_X_skI/AAAAAAAAYLA/hiSqrpVyPC8LuEqykEka7dql3IPcQkKXQCLcBGAsYHQ/s1600/utv.jpg",UÇANKUŞ
+https://tv.kuzeytv.com/hls/ucankus.m3u8
+#EXTINF:-1 $ExtFilter="ULUSAL" tvg-logo="http://3.bp.blogspot.com/-14FOwTkIn3Q/Vvak6HCaT4I/AAAAAAAAP1Y/nkzQIPXgd_k5ZUVvL0nlzZFALId_s_ciw/s1600/emtv.jpg",TVEM
+https://tv.kuzeytv.com/hls/tvem.m3u8
+#EXTINF:-1 $ExtFilter="ULUSAL" tvg-logo="http://4.bp.blogspot.com/-062Fckkd9cg/Xk14Yq3jenI/AAAAAAAAYEI/iVcyu7_piZoB0uaAC9fwzIPOcMKL5B15gCLcBGAsYHQ/s1600/kanalb.jpg",KANAL B
+https://tv.kuzeytv.com/hls/kanalb.m3u8
+#EXTINF:-1 $ExtFilter="ULUSAL" tvg-logo="http://4.bp.blogspot.com/-IRR_OwIvPpw/Xk171WMTnrI/AAAAAAAAYHE/kq5EY-gdojYNfG0jVzdrIgyy_JYRxMdCACLcBGAsYHQ/s1600/woman.jpg",WOMAN TV
+https://tv.kuzeytv.com/hls/woman.m3u8
+#EXTINF:-1 $ExtFilter="HABER" tvg-logo="http://3.bp.blogspot.com/-Mpdmk08YCvM/Xk16jQ-yhfI/AAAAAAAAYGI/1fWSaSPRP1oeAxhcBRrAuECMkFuSb3LdACLcBGAsYHQ/s1600/trthaber.jpg",TRT HABER
+https://tv.kuzeytv.com/hls/trthaber.m3u8
+#EXTINF:-1 $ExtFilter="HABER" tvg-logo="http://1.bp.blogspot.com/-mY27Z4oCXsA/Xk12n6uos0I/AAAAAAAAYC8/X3lqz7Yf8nc0tYkmPZ59T_YimeNcgct2gCLcBGAsYHQ/s1600/cnnturk.jpg",CNN TÜRK
+https://tv.kuzeytv.com/hls/cnnturk.m3u8
+#EXTINF:-1 $ExtFilter="HABER" tvg-logo="http://4.bp.blogspot.com/-1Ow3hobafk4/Xk147E-viaI/AAAAAAAAYEk/3Y7faE9on_M58Pg9R9nD2Gnc433wphMrACLcBGAsYHQ/s1600/ntv.jpg",NTV
+https://tv.kuzeytv.com/hls/ntv.m3u8
+#EXTINF:-1 $ExtFilter="HABER" tvg-logo="http://4.bp.blogspot.com/-izbxf31NDwQ/Xk139YTUY1I/AAAAAAAAYD0/td8hL3mJPmIhE3MFRs_pBSORX66Zy9IrACLcBGAsYHQ/s1600/haberturk.jpg",HABERTÜRK TV
+https://tv.kuzeytv.com/hls/haberturk.m3u8
+#EXTINF:-1 $ExtFilter="HABER" tvg-logo="http://3.bp.blogspot.com/-CgLtoTnqZvI/Xk11janhPsI/AAAAAAAAYCI/K8WqsmiuX9sWrqlLJDrPk3xjyph1M1xYgCLcBGAsYHQ/s1600/24.jpg",24
+https://tv.kuzeytv.com/hls/24tv.m3u8
+#EXTINF:-1 $ExtFilter="HABER" tvg-logo="http://1.bp.blogspot.com/-2YPK1iDgENk/Vpj7o4qwTbI/AAAAAAAAN1w/D7an3i7uNdc/s1600/tgrthaber.jpg",TGRT HABER
+https://tv.kuzeytv.com/hls/tgrt.m3u8
+#EXTINF:-1 $ExtFilter="HABER" tvg-logo="http://4.bp.blogspot.com/-062Fckkd9cg/Xk14Yq3jenI/AAAAAAAAYEI/iVcyu7_piZoB0uaAC9fwzIPOcMKL5B15gCLcBGAsYHQ/s1600/kanalb.jpg",KANAL B
+https://tv.kuzeytv.com/hls/kanalb.m3u8
+#EXTINF:-1 $ExtFilter="HABER" tvg-logo="http://1.bp.blogspot.com/-9M3gydocODU/Xk12S0Gf2yI/AAAAAAAAYCk/I6Pb6CA7X8UCA6xqdsKUQ8BS2xyQl-NjgCLcBGAsYHQ/s1600/blomberg.jpg",BLOOMBERG HT
+https://tv.kuzeytv.com/hls/bloomberg.m3u8
+#EXTINF:-1 $ExtFilter="HABER" tvg-logo="http://3.bp.blogspot.com/-FIpYo1vTdFE/Xk132ypN4VI/AAAAAAAAYDs/2ZqGm4u4rFQMlBh5vmIJVZKPzhS7oztpACLcBGAsYHQ/s1600/haberglobal.jpg",HABER GLOBAL
+https://tv.kuzeytv.com/hls/haberglobal.m3u8
+#EXTINF:-1 $ExtFilter="HABER" tvg-logo="http://4.bp.blogspot.com/-ldTBFkOJt-I/Xk14FDfkCvI/AAAAAAAAYD8/YFWglX_FvOE1qhTsWQTZGE9fvpz398d-gCLcBGAsYHQ/s1600/halk.jpg",HALK TV
+https://tv.kuzeytv.com/hls/halk.m3u8
+#EXTINF:-1 $ExtFilter="HABER" tvg-logo="http://2.bp.blogspot.com/-sjs70LRL4Fc/Xk17pJrP7dI/AAAAAAAAYG8/di6FjALb5A8wJdK8vyWfP_-2eSjMhs81gCLcBGAsYHQ/s1600/ulke.jpg",ÜLKE TV
+https://tv.kuzeytv.com/hls/ulke.m3u8
+#EXTINF:-1 $ExtFilter="HABER" tvg-logo="http://3.bp.blogspot.com/-x4QL08kY-VE/Xk13TAhVejI/AAAAAAAAYDU/4a6Q6MMCeLcKHA9uFUPAPrWx7ehvkZrIwCLcBGAsYHQ/s1600/ekoturk.jpg",EKOTÜRK
+https://tv.kuzeytv.com/hls/ekoturk.m3u8
+#EXTINF:-1 $ExtFilter="HABER" tvg-logo="http://4.bp.blogspot.com/-sx3seq26Sts/Vpj7g6As_aI/AAAAAAAAN1o/I8ThcmtrUKM/s1600/ahaberhd.jpg",A HABER
+https://tv.kuzeytv.com/hls/ahaber.m3u8
+#EXTINF:-1 $ExtFilter="HABER" tvg-logo="http://1.bp.blogspot.com/-xl7yg80xff8/Xk118onYtjI/AAAAAAAAYCU/5mcDWb7oTYgFssyS4ZolYIVYcaNa8Rh0wCLcBGAsYHQ/s1600/apara.jpg",A PARA
+https://tv.kuzeytv.com/hls/apara.m3u8
+#EXTINF:-1 $ExtFilter="HABER" tvg-logo="http://4.bp.blogspot.com/-WApL0o04I4M/VqnN-Nzsk0I/AAAAAAAAPXo/5d6hN47EtZg/s1600/krtkultur.jpg",KRT
+https://tv.kuzeytv.com/hls/krt.m3u8
+#EXTINF:-1 $ExtFilter="SPOR" tvg-logo="http://3.bp.blogspot.com/-IKXNFUS4Ytw/Xk12DdkJW5I/AAAAAAAAYCY/t_HCylCxRqIfB3xorMVcH33TYRgX6YZkQCLcBGAsYHQ/s1600/aspor.jpg",A SPOR
+https://tv.kuzeytv.com/hls/aspor.m3u8
+#EXTINF:-1 $ExtFilter="MÜZİK" tvg-logo="http://1.bp.blogspot.com/-djyplEB79oI/XpwEqfmFYdI/AAAAAAAAYUo/aWeT-3sRNF4jFud4C3SsnbUGS9tyI5N-ACLcBGAsYHQ/s1600/trtmuzik.jpg",TRT MÜZİK
+https://tv.kuzeytv.com/hls/trtmuzik.m3u8
+#EXTINF:-1 $ExtFilter="MÜZİK" tvg-logo="http://4.bp.blogspot.com/-aLd0yZtZCeI/Xk13CcVmoJI/AAAAAAAAYDE/Nia3U4qeonYc_4gYz34XKzbuq0KpSo2zQCLcBGAsYHQ/s1600/dream.jpg",DREAM TV
+https://tv.kuzeytv.com/hls/dreamtv.m3u8
+#EXTINF:-1 $ExtFilter="MÜZİK" tvg-logo="http://3.bp.blogspot.com/-naVuMYoLMTI/Xk13J6ZQj6I/AAAAAAAAYDQ/OcOieuD7xSkcwxFBIwWMuHHI5dx1-GFZQCLcBGAsYHQ/s1600/dreamturk.jpg",DREAM TÜRK
+https://tv.kuzeytv.com/hls/dreamturk.m3u8
+#EXTINF:-1 $ExtFilter="BELGESEL" tvg-logo="http://3.bp.blogspot.com/-Mx38HRjjZzQ/Xk16ICx20dI/AAAAAAAAYFs/7ZNFyao4LJYLb7qYfNm--_DrVot4Gr7pQCLcBGAsYHQ/s1600/trtbelgesel.jpg",TRT BELGESEL
+https://tv.kuzeytv.com/hls/trtbelgesel.m3u8
+#EXTINF:-1 $ExtFilter="ÇOCUK" tvg-logo="http://4.bp.blogspot.com/-7FoNoYG06iU/Xk16TL3yb8I/AAAAAAAAYF8/01mOFqqHbkgf6HbTeEztqMKCJr26-3xrgCLcBGAsYHQ/s1600/trtcocuk.jpg",TRT ÇOCUK HD
+https://tv.kuzeytv.com/hls/trtcocuk.m3u8
+#EXTINF:-1 $ExtFilter="ÇOCUK" tvg-logo="http://3.bp.blogspot.com/-qeH6h_ttLuo/VpZeXW6sMWI/AAAAAAAANgU/LPjWymOSY_o/s1600/disneychannel.jpg",DİSNEY CHANNEL
+https://tv.kuzeytv.com/hls/disney.m3u8
