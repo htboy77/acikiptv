@@ -1,4 +1,4 @@
-#EXTM3U $BorpasFileFormat="1"
+ #EXTM3U $BorpasFileFormat="1"
 #EXTINF:-1 $ExtFilter="ULUSAL" tvg-logo="http://3.bp.blogspot.com/-saNhasSsg3c/Xk155ldHJnI/AAAAAAAAYFk/SdTrfkNcOxwLQsG3GKEiKrQom9AdabSNQCLcBGAsYHQ/s1600/trt1.jpg",TRT1
 https://tv.kuzeytv.com/hls/trt1.m3u8
 #EXTINF:-1 $ExtFilter="ULUSAL" tvg-logo="http://1.bp.blogspot.com/-IO3JWqWeWKs/Xk14fjxOjfI/AAAAAAAAYEM/BJAkaa1cAwMW_aCBV-cs8UDGRhufCZaSgCLcBGAsYHQ/s1600/kanald.jpg",KANAL D
