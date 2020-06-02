@@ -1,1 +1,19 @@
-
+#EXTM3U $BorpasFileFormat="1"
+#EXTINF:-1 $ExtFilter="ULUSAL" tvg-logo="https://dtr91gxe5pmp.static.ercdn.net/image/fox-logos/01.svg",FOX
+https://sample1.m3u8
+#EXTINF:-1 $ExtFilter="DIZI" tvg-logo="https://dtr91gxe5pmp.static.ercdn.net/image/fox-logos/02.svg",FOXlife
+https://sample1.m3u8
+#EXTINF:-1 $ExtFilter="DIZI" tvg-logo="https://dtr91gxe5pmp.static.ercdn.net/image/fox-logos/03.svg",FX
+https://sample1.m3u8
+#EXTINF:-1 $ExtFilter="DIZI" tvg-logo="https://dtr91gxe5pmp.static.ercdn.net/image/fox-logos/04.svg",FOXCRIME
+https://sample1.m3u8
+#EXTINF:-1 $ExtFilter="BELGESEL" tvg-logo="https://dtr91gxe5pmp.static.ercdn.net/image/fox-logos/05.svg",NATIONAL GEOGRAPHIC
+https://sample1.m3u8
+#EXTINF:-1 $ExtFilter="BELGESEL" tvg-logo="https://dtr91gxe5pmp.static.ercdn.net/image/fox-logos/06.svg",NAT GEO WILD
+https://sample1.m3u8
+#EXTINF:-1 $ExtFilter="BELGESEL" tvg-logo="https://dtr91gxe5pmp.static.ercdn.net/image/fox-logos/07.svg",NAT GEO PEOPLE
+https://sample1.m3u8
+#EXTINF:-1 $ExtFilter="YASAM" tvg-logo="https://dtr91gxe5pmp.static.ercdn.net/image/fox-logos/08.svg",24 KITCHEN
+https://sample1.m3u8
+#EXTINF:-1 $ExtFilter="COCUK" tvg-logo="https://dtr91gxe5pmp.static.ercdn.net/image/fox-logos/09.svg",BABY TV
+https://sample1.m3u8
