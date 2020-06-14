@@ -1,0 +1,109 @@
+#EXTM3U
+#EXTINF:0 type="stream" channelId="1055" group="Genel" logo="https://blutv-images.mncdn.com/q/t/i/bluv2/80/330x330/55f178eb058d0717b0467456" size="Small", TRT1 HD
+https://mn-nl.mncdn.com/blutv_trt1/smil:trt1_hd.smil/playlist.m3u8
+#EXTINF:0 type="stream" channelId="3999" group="Genel" logo="https://blutv-images.mncdn.com/q/t/i/bluv2/80/330x330/5dc2be53866ac331e0feb20e" size="Small", STAR HD
+https://mn-nl.mncdn.com/blutv_star/smil:star_hd.smil/playlist.m3u8
+#EXTINF:0 type="stream" channelId="1044" group="Genel" logo="https://blutv-images.mncdn.com/q/t/i/bluv2/80/330x330/5dc2be70866ac31da06187b1" size="Small", KANAL D HD
+https://mn-nl.mncdn.com/blutv_kanald/smil:kanald_hd.smil/playlist.m3u8
+#EXTINF:0 type="stream" channelId="1045" group="Genel" logo="https://blutv-images.mncdn.com/q/t/i/bluv2/80/330x330/5dcd4eec866ac302bcb1c34b" size="Small", SHOW HD
+https://mn-nl.mncdn.com/blutv_showtv/smil:show_hd.smil/playlist.m3u8
+#EXTINF:0 type="stream" channelId="177" group="Genel" logo="https://blutv-images.mncdn.com/q/t/i/bluv2/80/330x330/5dc2bd27866ac331e0feb1fe" size="Small", FOX HD
+https://mn-nl.mncdn.com/blutv_foxtv/smil:foxtv_hd.smil/playlist.m3u8
+#EXTINF:0 type="stream" channelId="1076" group="Genel" logo="https://blutv-images.mncdn.com/q/t/i/bluv2/80/330x330/5dc2bcd9866ac31da061879f" size="Small", TV8 HD
+https://mn-nl.mncdn.com/blutv_tv8/smil:tv8_hd.smil/playlist.m3u8
+#EXTINF:0 type="stream" channelId="3991" group="Genel" logo="https://blutv-images.mncdn.com/q/t/i/bluv2/80/330x330/5dc2c02c866ac31da06187c7" size="Small", TV8.5 HD
+https://mn-nl.mncdn.com/blutv_tv8_5/smil:tv8_5_hd.smil/playlist.m3u8
+#EXTINF:0 type="stream" channelId="1941" group="Genel" logo="https://blutv-images.mncdn.com/q/t/i/bluv2/80/330x330/5afec182fbead3711c39d385" size="Small", KANAL7 HD
+https://mn-nl.mncdn.com/blutv_kanal7/kanal7_hd.smil/playlist.m3u8
+#EXTINF:0 type="stream" channelId="18" group="Genel" logo="https://blutv-images.mncdn.com/q/t/i/bluv2/80/330x330/5c63c27a866ac30cbc2ad836" size="Small", BEYAZ HD
+https://mn-nl.mncdn.com/blutv_beyaztv/smil:beyaztv_hd.smil/playlist.m3u8
+#EXTINF:0 type="stream" channelId="3992" group="Genel" logo="https://blutv-images.mncdn.com/q/t/i/bluv2/80/330x330/5c63cdf3866ac30cbc2ad8ae" size="Small", A2 HD
+https://mn-nl.mncdn.com/blutv_a2/smil:a2_hd.smil/playlist.m3u8
+#EXTINF:0 type="stream" channelId="3040" group="Genel" logo="https://blutv-images.mncdn.com/q/t/i/bluv2/80/330x330/5dc2c114866ac331e0feb225" size="Small", teve2 HD
+https://mn-nl.mncdn.com/blutv_teve2/smil:teve2_hd.smil/playlist.m3u8
+#EXTINF:0 type="stream" channelId="1078" group="Haber" logo="https://blutv-images.mncdn.com/q/t/i/bluv2/80/330x330/56a72d98058d024d98970264" size="Small", NTV HD
+https://mn-nl.mncdn.com/blutv_ntv/ntv_hd.smil/playlist.m3u8
+#EXTINF:0 type="stream" channelId="1070" group="Haber" logo="https://blutv-images.mncdn.com/q/t/i/bluv2/80/330x330/5dc2beb0866ac31da06187b6" size="Small", CNN TURK HD
+https://mn-nl.mncdn.com/blutv_cnnturk/smil:cnnturk_hd.smil/playlist.m3u8
+#EXTINF:0 type="stream" channelId="3081" group="Haber" logo="https://blutv-images.mncdn.com/q/t/i/bluv2/80/330x330/5dc2bf0c866ac331e0feb216" size="Small", HABERTÜRK HD
+https://mn-nl.mncdn.com/blutv_haberturk/smil:haberturk_hd.smil/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Haber" logo="https://blutv-images.mncdn.com/q/t/i/bluv2/80/330x330/5c62b4c0866ac30cbc2ad5f4" size="Small", HABER GLOBAL HD
+https://mn-nl.mncdn.com/blutv_haberglobal/smil:haberglobal_hd.smil/playlist.m3u8
+#EXTINF:0 type="stream" channelId="1053" group="Haber" logo="https://blutv-images.mncdn.com/q/t/i/bluv2/80/330x330/5dc2bca3866ac331e0feb1ed" size="Small", 24 HD
+https://mn-nl.mncdn.com/blutv_kanal24/smil:kanal24_hd.smil/playlist.m3u8
+#EXTINF:0 type="stream" channelId="1080" group="Haber" logo="https://blutv-images.mncdn.com/q/t/i/bluv2/80/330x330/5c63ca3a866ac30cbc2ad87a" size="Small", TRT HABER HD
+https://mn-nl.mncdn.com/blutv_trthaber/smil:trthaber_hd.smil/playlist.m3u8
+#EXTINF:0 type="stream" channelId="3082" group="Haber" logo="https://blutv-images.mncdn.com/q/t/i/bluv2/80/330x330/5c63c466866ac30cbc2ad84f" size="Small", TGRT HABER
+https://mn-nl.mncdn.com/blutv_tgrthaber/smil:tgrthaber_sd.smil/playlist.m3u8
+#EXTINF:0 type="stream" channelId="2535" group="Haber" logo="https://blutv-images.mncdn.com/q/t/i/bluv2/80/330x330/5afec289fbead3711c39d395" size="Small", ÜLKE HD
+https://mn-nl.mncdn.com/blutv_ulketv/smil:ulketv_hd.smil/playlist.m3u8
+#EXTINF:0 type="stream" channelId="3091" group="Haber" logo="https://blutv-images.mncdn.com/q/t/i/bluv2/80/330x330/5c62c14c866ac30cbc2ad6be" size="Small", TRTWORLD HD
+https://mn-nl.mncdn.com/blutv_trtworld/smil:trtworld_hd.smil/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Haber" logo="https://blutv-images.mncdn.com/q/t/i/bluv2/80/330x330/5dc2bfbd866ac31da06187c5" size="Small", HALK TV
+https://mn-nl.mncdn.com/blutv_halktv/smil:halktv_sd.smil/playlist.m3u8
+#EXTINF:0 type="stream" channelId="3075" group="Haber" logo="https://blutv-images.mncdn.com/q/t/i/bluv2/80/330x330/5dc2bcb7866ac331e0feb1f0" size="Small", BLOOMBERGHT HD
+https://mn-nl.mncdn.com/blutv_bloomberght/smil:bloomberght_hd.smil/playlist.m3u8
+#EXTINF:0 type="stream" channelId="4017" group="Haber" logo="https://blutv-images.mncdn.com/q/t/i/bluv2/80/330x330/5dc2c1c9866ac31da06187e2" size="Small", APARA HD
+https://mn-nl.mncdn.com/blutv_apara/smil:apara_hd.smil/playlist.m3u8
+#EXTINF:0 type="stream" channelId="1060" group="Spor" logo="https://blutv-images.mncdn.com/q/t/i/bluv2/80/330x330/5dc2c22c866ac31da06187ea" size="Small", TRTSPOR HD
+https://mn-nl.mncdn.com/blutv_trtspor/smil:trtspor_hd.smil/playlist.m3u8
+#EXTINF:0 type="stream" channelId="3089" group="Spor" logo="https://blutv-images.mncdn.com/q/t/i/bluv2/80/330x330/5dc2bed9866ac31da06187b9" size="Small", ASPOR HD
+https://mn-nl.mncdn.com/blutv_aspor/smil:aspor_hd.smil/playlist.m3u8
+#EXTINF:0 type="stream" channelId="3087" group="Spor" logo="https://blutv-images.mncdn.com/q/t/i/bluv2/80/330x330/5dc2c186866ac331e0feb22d" size="Small", SPORTS TV
+https://mn-nl.mncdn.com/blutv_sportstv/smil:sportstv_sd.smil/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Spor" logo="https://blutv-images.mncdn.com/q/t/i/bluv2/80/330x330/569cbc0efbead3257cb467f4" size="Small", TAY TV
+https://mn-nl.mncdn.com/blutv_taytv/smil:taytv_sd.smil/playlist.m3u8
+#EXTINF:0 type="stream" channelId="1072" group="Spor" logo="https://blutv-images.mncdn.com/q/t/i/bluv2/80/330x330/5ddb8e11866ac304f8bc3c09" size="Small", TJK TV
+https://mn-nl.mncdn.com/blutv_tjktv/smil:tjktv_sd.smil/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Yaşam Tarzı" logo="https://blutv-images.mncdn.com/q/t/i/bluv2/80/330x330/5c821fdb866ac31270bccfc3" size="Small", WOMAN KADIN
+https://mn-nl.mncdn.com/blutv_womankadin/smil:womankadin_sd.smil/playlist.m3u8
+#EXTINF:0 type="stream" channelId="3092" group="Belgesel" logo="https://blutv-images.mncdn.com/q/t/i/bluv2/80/330x330/5dc2c0f8866ac31da06187cf" size="Small", TRTBELGESEL HD
+https://mn-nl.mncdn.com/blutv_trtbelgesel/smil:trtbelgesel_hd.smil/playlist.m3u8
+#EXTINF:0 type="stream" channelId="4008" group="Yaşam Tarzı" logo="https://blutv-images.mncdn.com/q/t/i/bluv2/80/330x330/5dc2bff0866ac331e0feb21d" size="Small", UÇANKUŞ HD
+https://mn-nl.mncdn.com/blutv_ucankus/ucankus_hd.smil/playlist.m3u8
+#EXTINF:0 type="stream" channelId="1049" group="Müzik" logo="https://blutv-images.mncdn.com/q/t/i/bluv2/80/330x330/5e415748866ac31d980eb317" size="Small", N1 HD
+https://mn-nl.mncdn.com/blutv_nr1tv/nr1tv_hd.smil/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Müzik" logo="https://blutv-images.mncdn.com/q/t/i/bluv2/80/330x330/5e415bb8866ac31d980eb377" size="Small", N1 TÜRK HD
+https://mn-nl.mncdn.com/blutv_nr1turktv/nr1turktv_hd.smil/playlist.m3u8
+#EXTINF:0 type="stream" channelId="3997" group="Müzik" logo="https://blutv-images.mncdn.com/q/t/i/bluv2/80/330x330/5dc2bf1e866ac331e0feb218" size="Small", DREAM TV
+https://mn-nl.mncdn.com/blutv_dream/smil:dream_sd.smil/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Müzik" logo="https://blutv-images.mncdn.com/q/t/i/bluv2/80/330x330/5dc2c085866ac31da06187cd" size="Small", DREAM TÜRK
+https://mn-nl.mncdn.com/blutv_dreamturk/smil:dreamturk_sd.smil/playlist.m3u8
+#EXTINF:0 type="stream" channelId="1046" group="Müzik" logo="https://blutv-images.mncdn.com/q/t/i/bluv2/80/330x330/5dc2c125866ac31da06187d6" size="Small", POWERTÜRK HD
+https://mn-nl.mncdn.com/blutv_powerturk/smil:powerturk_hd.smil/playlist.m3u8
+#EXTINF:0 type="stream" channelId="3289" group="Müzik" logo="https://blutv-images.mncdn.com/q/t/i/bluv2/80/330x330/5dc2c155866ac331e0feb22b" size="Small", POWER HD
+https://mn-nl.mncdn.com/blutv_power/smil:power_hd.smil/playlist.m3u8
+#EXTINF:0 type="stream" channelId="1058" group="Müzik" logo="https://blutv-images.mncdn.com/q/t/i/bluv2/80/330x330/5dc2c142866ac31da06187d8" size="Small", TRTMÜZİK HD
+https://mn-nl.mncdn.com/blutv_trtmuzik/smil:trtmuzik_hd.smil/playlist.m3u8
+#EXTINF:0 type="stream" channelId="1059" group="Çocuk" logo="https://blutv-images.mncdn.com/q/t/i/bluv2/80/330x330/5dc2c16f866ac31da06187dc" size="Small", TRTÇOCUK HD
+https://mn-nl.mncdn.com/blutv_trtcocuk/smil:trtcocuk_hd.smil/playlist.m3u8
+#EXTINF:0 type="stream" channelId="989" group="Genel" logo="https://blutv-images.mncdn.com/q/t/i/bluv2/80/330x330/5dc2c20e866ac331e0feb233" size="Small", TRTTÜRK HD
+https://mn-nl.mncdn.com/blutv_trtturk/trtturk_hd.smil/playlist.m3u8
+#EXTINF:0 type="stream" channelId="1093" group="Yerel" logo="https://blutv-images.mncdn.com/q/t/i/bluv2/80/330x330/5c62b751866ac30cbc2ad618" size="Small", KON TV
+https://mn-nl.mncdn.com/blutv_kontv/smil:kontv_sd.smil/playlist.m3u8
+#EXTINF:0 type="stream" channelId="3083" group="Yerel" audio-track="https://blutv-images.mncdn.com/q/t/i/bluv2/80/330x330/5dc2c1df866ac331e0feb231" size="Small", KANAL B
+https://mn-nl.mncdn.com/blutv_kanalb/smil:kanalb_sd.smil/playlist.m3u8
+#EXTINF:0 type="stream" channelId="4018" group="Haber" logo="https://blutv-images.mncdn.com/q/t/i/bluv2/80/330x330/5c63c377866ac30cbc2ad843" size="Small", EKOTÜRK
+https://mn-nl.mncdn.com/blutv_ekoturk/smil:ekoturk_sd.smil/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Yerel" logo="https://blutv-images.mncdn.com/q/t/i/bluv2/80/330x330/5dc2c03d866ac31da06187cb" size="Small", VUSLAT TV
+https://mn-nl.mncdn.com/blutv_vuslattv/smil:vuslattv_sd.smil/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Yerel" logo="https://blutv-images.mncdn.com/q/t/i/bluv2/80/330x330/5c62b447866ac30cbc2ad5e7" size="Small", ERTV
+https://mn-nl.mncdn.com/blutv_ertv/smil:ertv_sd.smil/playlist.m3u8
+#EXTINF:0 type="stream" channelId="1129" group="Dini" logo="https://blutv-images.mncdn.com/q/t/i/bluv2/80/330x330/5c63c2cd866ac30cbc2ad83e" size="Small", DİYANET HD
+https://mn-nl.mncdn.com/blutv_diyanet/smil:diyanet_hd.smil/playlist.m3u8
+#EXTINF:0 type="stream" channelId="3096" group="Genel" logo="https://blutv-images.mncdn.com/q/t/i/bluv2/80/330x330/5dc2c297866ac331e0feb238" size="Small", TRTARAPÇA HD
+https://mn-nl.mncdn.com/blutv_trtarapca/smil:trtarapca_hd.smil/playlist.m3u8
+#EXTINF:0 type="stream" channelId="1073" group="Genel" logo="https://blutv-images.mncdn.com/q/t/i/bluv2/80/330x330/5dc2c283866ac31da06187f0" size="Small", TRTKURDİ
+https://mn-nl.mncdn.com/blutv_trtkurdi/smil:trtkurdi_sd.smil/playlist.m3u8
+#EXTINF:0 type="stream" channelId="3092" group="Belgesel" logo="https://blutv-images.mncdn.com/q/t/i/bluv2/80/330x330/5dc2c0f8866ac31da06187cf" size="Small", TRTBELGESEL HD
+https://mn-nl.mncdn.com/blutv_trtbelgesel/smil:trtbelgesel_hd.smil/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Sinema" logo="https://blutv-images.mncdn.com/q/t/i/bluv2/80/330x330/5df3cd52866ac30eac569581" size="Small", BLUTV AKSİYON
+https://d1vftv9up76vki.cloudfront.net/out/v1/6f27e3bde7274af6b06befa08cd839d7/master.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Sinema" logo="https://blutv-images.mncdn.com/q/t/i/bluv2/80/330x330/5df3cdaf866ac30eac56958e" size="Small", BLUTV KOMEDİ
+https://d20aqhpvpegrs2.cloudfront.net/out/v1/d9da7879327241d3831f39b61016a353/master.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Eğitim" logo="https://blutv-images.mncdn.com/q/t/i/bluv2/80/330x330/5e79d359866ac31274dbd557" size="Small", EBA İLKOKUL
+https://mn-nl.mncdn.com/blutv_ebai/ebai_hd.smil/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Eğitim" logo="https://blutv-images.mncdn.com/q/t/i/bluv2/80/330x330/5e79d45e866ac31274dbd565" size="Small", EBA ORTAOKUL
+https://mn-nl.mncdn.com/blutv_ebao/ebao_hd.smil/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Eğitim" logo="https://blutv-images.mncdn.com/q/t/i/bluv2/80/330x330/5e79d608866ac31274dbd582" size="Small", EBA LİSE
+https://mn-nl.mncdn.com/blutv_ebal/ebal_hd.smil/playlist.m3u8
